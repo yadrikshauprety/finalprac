@@ -1,3 +1,7 @@
 yadriksha
 uprety
+<<<<<<< HEAD
 remote
+=======
+i am saving this as temp
+>>>>>>> target
